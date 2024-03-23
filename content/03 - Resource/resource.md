@@ -1,0 +1,7 @@
+[book](book/book.md)
+[film](film/film.md)
+[journal](journal/journal.md)
+[music](music/music.md)
+[productivity](productivity/productivity.md)
+[recipe](recipe/recipe.md)
+[travel](travel/travel.md)
