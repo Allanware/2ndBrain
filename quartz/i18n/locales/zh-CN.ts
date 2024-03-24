@@ -2,7 +2,7 @@ import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: "无题",
+    title: "赵文轩",
     description: "无描述",
   },
   components: {
@@ -33,7 +33,7 @@ export default {
       title: "探索",
     },
     footer: {
-      createdWith: "Created with",
+      name: "赵文轩",
     },
     graph: {
       title: "关系图谱",
